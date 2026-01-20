@@ -8,7 +8,8 @@ st.title("🧠 DecideWise AI")
 st.write("AI-powered decision analysis using a Generative AI agent")
 
 # 🔴 CHANGE THIS ONLY
-BACKEND_URL = "https://pacific-cooperation-production.up.railway.app"
+BACKEND_URL = "https://pacific-cooperation-production.up.railway.app/analyze-decision"
+
 # 🔴 If your Railway domain is different, replace ONLY the domain part
 
 # Input form
