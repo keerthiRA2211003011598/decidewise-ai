@@ -57,7 +57,7 @@ if st.button("🔍 Analyze My Decision"):
         with st.spinner("AI is analyzing your decision..."):
             try:
                 response = requests.post(
-                    "http://localhost:8000/analyze-decision",
+                    "https://github.com/keerthiRA2211003011598/decidewise-ai",
                     json={
                         "background": background,
                         "goal": goal,
